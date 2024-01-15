@@ -12,7 +12,7 @@ Nam nec ante in ipsum pulvinar ornare. Praesent tempor cursus felis, eu tincidun
 
 Integer bibendum volutpat elit vel tincidunt. Donec sodales metus dolor, eu pellentesque libero bibendum vel. Suspendisse eget justo consequat, accumsan justo id, tempor sem. Aenean iaculis enim nunc. Vestibulum fringilla lorem vitae lacus fermentum, sed mattis risus tempor. Nam posuere sit amet est et blandit. Integer tempus nulla orci, malesuada commodo justo dapibus eget. Duis vel magna ligula. In at eleifend lacus. Nulla pretium a mi a congue. Proin sagittis tellus eu pharetra venenatis. Fusce mi velit, eleifend et varius in, tristique in mauris. Donec eu ornare ante. Fusce elementum nec tellus sit amet dapibus.
 
-![stitch]({{/assets/img/Stitch.jpg | relative_url}})
+![stitch]({{"/assets/img/Stitch.jpg" | relative_url}})
 
 Duis neque metus, vulputate sed gravida et, sagittis vitae magna. Integer ut erat et tellus pharetra imperdiet a vel metus. Donec dapibus at ex non condimentum. Donec non ante ut lacus dapibus aliquet vel a mauris. In dignissim lacus sit amet tellus porttitor vestibulum vitae pellentesque est. Mauris laoreet massa sed velit lobortis iaculis. Nulla orci nisl, consectetur ut quam eu, accumsan lacinia lorem. Maecenas eros tortor, porta id faucibus eu, venenatis quis ante. Aliquam finibus libero dapibus nulla finibus, nec ultrices dui consectetur. Aliquam iaculis risus dolor, ut sollicitudin est suscipit ac.
 !
